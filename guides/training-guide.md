@@ -58,7 +58,7 @@ In this section, you will see an overview of each rank’s job at training sessi
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
 | Host | Leads the training and states the Host Intro. The Host also claims the training and ranks LRs (Executive Assistant+). The Host is also responsible for whitelisting trainers when teleporting LRs. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
-| Co-Host | Helps lead the training. The Co-Host also ranks LRs (Executive Assistant+), administers group shouts, and takes training attendance. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
+| Co-Host | Helps lead the training. The Co-Host also ranks LRs (Executive Assistant+), administers group shouts, and takes training attendance. | Anybody ranked **Board of Directors or Higher**  | **1** Co-Host per training |
 | Ranker           | Ranks all LRs who pass. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
 | Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their LRs and determines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **20 trainers** (1 trainer per counter)  |
 | Excess Trainers | Replaces a trainer in case a trainer disconnects or has to leave during a training. | Anyone ranked **Store Manager or Higher** | Maximum of **5 excess trainers** | 
@@ -266,7 +266,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *The second step to restock an item is to grab a box from the staff room and then head back to the empty shelf.*
 
-**Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.*
+**Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, click 'E' on the shelf.*
 
 **Trainer:** *The shelf should now be restocked. All staff members will earn one point for restocking. If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
 
